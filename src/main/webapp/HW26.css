@@ -1,0 +1,26 @@
+body {
+    background-color: #1d1d1b;
+}
+
+.yellow {
+    font-family: Andale Mono, monospace;
+    font-size: 29px;
+    color: #f5dc18;
+    margin-right: 6px;
+}
+
+.text {
+    font-family: sans-serif;
+    color: white;
+    border: white;
+    font-size: 30px;
+}
+
+.tms {
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 140px;
+    height: 140px;
+}
